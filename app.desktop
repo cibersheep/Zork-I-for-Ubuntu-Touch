@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Zork I
+Comment=Text adventure
+Exec=webapp-container $@ www/index.html
+Terminal=false
+Type=Application
+Categories=Game;AdventureGame
+X-Ubuntu-Touch=true
+Icon=./icon.png
+X-Ubuntu-Splash-Color=#000000
