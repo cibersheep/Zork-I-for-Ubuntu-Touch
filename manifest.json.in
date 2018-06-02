@@ -1,0 +1,15 @@
+{
+    "name": "zork-i-en.cibersheep",
+    "description": "Original game of Zork. Type your commnads to go forward in the story.",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Zork (en)",
+    "hooks": {
+        "zork-i-en": {
+            "apparmor": "zork-i-en.apparmor",
+            "desktop":  "zork-i-en.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Joan CiberSheep <cibersheep@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04.5"
+}

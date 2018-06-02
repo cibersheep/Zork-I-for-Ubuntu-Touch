@@ -1,0 +1,9 @@
+[Desktop Entry]
+_Name=Zork (En)
+Exec=qmlscene qml/Main.qml
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#F6F6F5
+X-Ubuntu-Splash-Image=assets/zork-splash.svg
