@@ -12,7 +12,8 @@ void BackUp::backUpLocalStore(QString lsOld, QString lsNew) {
     QDir storeDir;
 
     #ifdef Q_PROCESSOR_X86
-    storeDir = "/home/cibersheep/.local/share/QtProject/zork-i-en.cibersheep/Local Storage/";
+    //This route probably does not work and should be changed to /home/[username]/.local/[...]
+    storeDir = "~/.local/share/QtProject/zork-i-en.cibersheep/Local Storage/";
     #else
     storeDir = "/home/phablet/.local/share/zork-i-en.cibersheep/Local Storage/";
     #endif
