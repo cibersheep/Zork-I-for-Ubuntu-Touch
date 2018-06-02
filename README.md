@@ -1,29 +1,25 @@
-# Zork-I-for-Ubuntu-Touch
-Zork I is made from different projects:
+# Zork Trilogy (MIT) for Ubuntu Touch
+Zork by Tim Anderson, Marc Blank, Bruce Daniels, Dave Lebling ©1979 under MIT license
 
-## Parchmenet javascript Z-machine interpreter
+## Zork App is made from different projects:
+
+### Parchmenet javascript Z-machine interpreter
 https://github.com/curiousdannii/parchment
+modified by CiberSheep
+https://github.com/cibersheep/parchment
 
 License BSD
 
-## Zork I
+### Zork
 http://ifdb.tads.org/viewgame?id=4gxk83ja4twckm6j
-
-License Freeware
-
-## ubuntu-html5-template
-https://github.com/popey/ubuntu-html5-template
-Template for making a click package out of any html5 app
 
 License MIT
 
-Usage
-Put your HTML5 app in www/
-Modify the app.desktop, and manifest.json to set your app name, version, etc.
+### Habitica Ubuntu Touch base code
+http://github.com/bhdouglass/habitica-ubuntu-touch
+Modified webview based qml app
 
-Options for building:
+License GPL 3.0
 
-- Open "app.ubuntuhtmlproject" using the Ubuntu SDK or
-
-- Build on the command line with "click build ."
-
+## Usage
+Use `clickable` on root folder
