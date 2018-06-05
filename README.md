@@ -1,3 +1,8 @@
+# IMPORTANT
+This project has moved to gitlab: https://gitlab.com/cibersheep/Zork-I-for-Ubuntu-Touch/
+
+Github repo is deprecated.
+
 # Zork Trilogy (MIT) for Ubuntu Touch
 Zork by Tim Anderson, Marc Blank, Bruce Daniels, Dave Lebling ©1979 under MIT license
 
